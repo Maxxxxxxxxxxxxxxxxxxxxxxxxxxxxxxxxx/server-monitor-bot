@@ -3,19 +3,19 @@
         "Empty": 0,
         "Worms": 14,
         "Leeches": 96,
-        "Magnet": 39
+        "Magnet": 8
     },
     "2048376052": {
         "Empty": 0,
         "Worms": 0,
-        "Leeches": 114,
-        "Magnet": 49
+        "Leeches": 1144,
+        "Magnet": 460
     },
     "1884318656": {
         "Empty": 0,
         "Worms": 100,
         "Leeches": 100,
-        "Magnet": 58
+        "Magnet": 43
     },
     "941281424": {
         "Empty": 0,
@@ -37,7 +37,7 @@
     },
     "5247598381": {
         "Empty": 0,
-        "Worms": 51,
+        "Worms": 49,
         "Leeches": 19,
         "Magnet": 0
     },
@@ -98,12 +98,12 @@
     "5638616812": {
         "Empty": 0,
         "Worms": 80,
-        "Leeches": 104,
-        "Magnet": 111
+        "Leeches": 84,
+        "Magnet": 80
     },
     "8538244700": {
         "Empty": 0,
-        "Worms": 0,
+        "Worms": 30,
         "Leeches": 0,
         "Magnet": 0
     },
